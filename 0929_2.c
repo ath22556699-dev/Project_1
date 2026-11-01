@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main(){
+int main()
+{
     int hp=100;
     hp-=30;
     hp+=20;

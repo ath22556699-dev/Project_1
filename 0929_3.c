@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     int livingroom = 9;
     int bedroom = 5;
     int kitchen = 2;

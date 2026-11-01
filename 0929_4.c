@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     int s = 5;       
     int p = 1 << 2; 
     int o = 1 << 3;  
